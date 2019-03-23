@@ -1,0 +1,2 @@
+# encjsongen
+encoding/json generator
